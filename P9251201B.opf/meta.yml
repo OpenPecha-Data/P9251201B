@@ -1,0 +1,16 @@
+id: P9251201B
+initial_creation_type: input
+source_metadata:
+  title: Mayum Tsering Wangmo Series
+  language: bo
+  description: 'Texts by and about Pema Tsering Wangmo (padma tshe ring dbang mo)
+    of the Lakar family, the mother of the Seventh Dzogchen Rinpoche and Sogyal Rinpoche:'
+  volume:
+    fa85ccccf3664d5da2ecadcd70c50715:
+      title: A Brief History of the Lakar Family
+      parent: History
+    d8bae489e2ab4758ba71eaffbcb0fa43:
+      title: Long Life Prayer for Mayum Tsering Wangmo
+      parent: Long Life Prayers
+created_at: '2022-03-01T00:44:27.788856'
+last_modified_at: '2022-03-01T00:44:27.788859'
